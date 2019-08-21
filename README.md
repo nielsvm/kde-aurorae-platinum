@@ -7,7 +7,7 @@ Retro platinum-inspired theme for [KWin](https://en.wikipedia.org/wiki/KWin)'s _
 ### Installation
 1. `System Settings`> `Application Style`> `Window Decorations`
 2. `Get New Window Decorations...`
-3. Search "`Platinum`" and hit `Install`, or get it manually [here](https://HERE).
+3. Search "`Platinum`" and hit `Install`, or get it manually [here](https://store.kde.org/p/1319936/).
 4. Set `Window border size` to `Normal`.
 5. Reorder the titlebar buttons like this:
    ![Preview screenshot](./README-2.png)
