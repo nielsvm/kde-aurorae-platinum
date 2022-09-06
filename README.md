@@ -1,6 +1,6 @@
 # kde-aurorae-platinum
 
-Retro platinum-inspired theme for [KWin](https://en.wikipedia.org/wiki/KWin)'s _aurorae_ theme engine, unfortunately without the stripes as this isn't technically possible, but otherwise a close resemblance:
+Retro platinum-inspired theme for [KWin](https://en.wikipedia.org/wiki/KWin)'s _aurorae_ theme engine.
 
 ![Preview screenshot](./README-1.png)
 
@@ -19,15 +19,4 @@ Retro platinum-inspired theme for [KWin](https://en.wikipedia.org/wiki/KWin)'s _
 
 ---
 
-If you want to go fully _classic_, here's some extra tips:
-
-1. Install the `qtcurve` widget style on your system and import the [QPlatinum preset](https://store.kde.org/p/1287743/):
-![Widget Style screenshot](./README-tip1.png)
-
-2. Use the [QPlatinum](https://store.kde.org/p/1287747/) color scheme:
-![Color Scheme screenshot](./README-tip2.png)
-
-3. Disable inactive window dimming:
-![Desktop Effects](./README-tip3.png)
-
-4. Install this [absolutely awesome Plymouth theme](https://store.kde.org/p/1284643/)
+If you want to go fully _classic_, checkout the full [Look and Feel package](https://github.com/nielsvm/kde-look-and-feel-platinum).
