@@ -2,10 +2,10 @@
 TitleAlignment=Center
 TitleVerticalAlignment=Center
 DecorationPositon=0
-Animation=50
+Animation=0
 ActiveTextColor=0,0,0,255
 InactiveTextColor=100,100,100,255
-UseTextShadow=false
+UseTextShadow=true
 HaloActive=false
 HaloInactive=false
 LeftButtons=X
