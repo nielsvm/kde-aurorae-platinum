@@ -20,3 +20,11 @@ Retro platinum-inspired theme for [KWin](https://en.wikipedia.org/wiki/KWin)'s _
 ---
 
 If you want to go fully _classic_, checkout the full [Look and Feel package](https://github.com/nielsvm/kde-look-and-feel-platinum).
+
+### Changelog
+
+####### 0.2
+- Incorporate fixes from zinjanthr0pus's 22p fork, looks lots better.
+
+####### 0.1
+- Initial version
