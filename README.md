@@ -24,6 +24,7 @@ If you want to go fully _classic_, checkout the full [Look and Feel package](htt
 ### Changelog
 
 ####### 0.2
+- Make maximized windows look equally good.
 - Incorporate fixes from zinjanthr0pus's 22p fork, looks lots better.
 
 ####### 0.1

@@ -6,7 +6,7 @@
    height="71.952293"
    id="svg6499"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="decoration.svg"
    style="shape-rendering:crispEdges"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.49411765"
      inkscape:pageshadow="2"
-     inkscape:zoom="90.509668"
-     inkscape:cx="13.91564"
-     inkscape:cy="63.142426"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="88.653512"
+     inkscape:cy="84.410872"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +48,8 @@
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:bbox-paths="true">
+     inkscape:bbox-paths="true"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid7260"
@@ -57,7 +58,10 @@
        enabled="true"
        snapvisiblegridlinesonly="true"
        originx="1781.6923"
-       originy="-824.03575" />
+       originy="-824.03575"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs6501">
@@ -530,53 +534,6 @@
          inkscape:connector-curvature="0"
          class="ColorScheme-ButtonHover" />
     </g>
-    <g
-       id="decoration-maximized-center"
-       style="shape-rendering:crispEdges"
-       transform="translate(45.505917,-0.40718732)">
-      <path
-         style="fill:currentColor;fill-opacity:1;stroke-width:0.121032"
-         d="m -1768.6615,176.28855 v -11.47264 h 13.2155 13.2153 v 11.47264 11.47265 h -13.2153 -13.2155 z"
-         id="path1156-1"
-         inkscape:connector-curvature="0"
-         class="ColorScheme-Background" />
-      <path
-         style="color:#dddddd;fill:#000000;fill-opacity:0.1;stroke-width:0.121032;shape-rendering:crispEdges"
-         d="m -1768.6615,176.28855 v -11.47264 h 13.2155 13.2153 v 11.47264 11.47265 h -13.2153 -13.2155 z"
-         id="path1156-0-8"
-         inkscape:connector-curvature="0"
-         class="ColorScheme-Background" />
-      <path
-         style="fill:#000000;fill-opacity:0.45;stroke-width:0.114821"
-         d="m -1768.6615,184.86728 v -0.57363 h 13.2155 13.2153 v 0.57363 0.57363 h -13.2153 -13.2155 z"
-         id="path1154-79"
-         inkscape:connector-curvature="0"
-         class="ColorScheme-ButtonHover" />
-      <path
-         style="color:#2e2e8a;fill:#ffffff;fill-opacity:0.5;stroke-width:0.11482;shape-rendering:crispEdges"
-         d="m -1768.6615,187.18757 v -0.57363 h 13.2156 13.2152 v 0.57363 0.57363 h -13.2152 -13.2156 z"
-         id="path1154-53-2"
-         inkscape:connector-curvature="0"
-         class="ColorScheme-ButtonHover" />
-      <path
-         style="color:#2e2e8a;fill:#000000;fill-opacity:0.75;stroke-width:0.114821;shape-rendering:crispEdges"
-         d="m -1768.6615,165.38954 v -0.57363 h 13.2155 13.2153 v 0.57363 0.57363 h -13.2153 -13.2155 z"
-         id="path1154-3-0"
-         inkscape:connector-curvature="0"
-         class="ColorScheme-ButtonHover" />
-      <path
-         style="color:#2e2e8a;fill:#000000;fill-opacity:0.75;stroke-width:0.116103;shape-rendering:crispEdges"
-         d="m -1768.6615,186.02743 v -0.58652 h 13.2155 13.2153 v 0.58652 0.58651 h -13.2153 -13.2155 z"
-         id="path1154-6-2"
-         inkscape:connector-curvature="0"
-         class="ColorScheme-ButtonHover" />
-      <path
-         style="color:#2e2e8a;fill:#ffffff;fill-opacity:0.5;stroke-width:0.114821;shape-rendering:crispEdges"
-         d="m -1768.6615,166.5368 v -0.57363 h 13.2155 13.2153 v 0.57363 0.57363 h -13.2153 -13.2155 z"
-         id="path1154-7-3"
-         inkscape:connector-curvature="0"
-         class="ColorScheme-ButtonHover" />
-    </g>
     <path
        style="color:#2e2e8a;fill:#ffffff;fill-opacity:1;stroke-width:0.114726;shape-rendering:crispEdges"
        d="m -1760.9447,153.28053 v -0.57363 h 13.1936 13.1935 v 0.57363 0.57363 h -13.1935 -13.1936 z"
@@ -762,30 +719,8 @@
          class="ColorScheme-ButtonHover" />
     </g>
     <g
-       id="decoration-maximized-inactive"
-       transform="translate(41.432327,0.10265899)"
-       style="shape-rendering:crispEdges">
-      <path
-         style="fill:currentColor;fill-opacity:1;stroke-width:0.116574"
-         d="m -1679.0149,176.17804 v -11.40665 h 13.701 13.701 v 11.40665 11.40666 h -13.701 -13.701 z"
-         id="path1426-2"
-         inkscape:connector-curvature="0"
-         class="ColorScheme-Background" />
-      <path
-         style="color:#2e2e8a;fill:#000000;fill-opacity:0.75;stroke-width:0.116911;shape-rendering:crispEdges"
-         d="m -1679.0149,165.34502 v -0.57363 h 13.7011 13.7009 v 0.57363 0.57363 h -13.7009 -13.7011 z"
-         id="path1154-7-5-3-8"
-         inkscape:connector-curvature="0"
-         class="ColorScheme-ButtonHover" />
-      <path
-         style="color:#2e2e8a;fill:#000000;fill-opacity:0.75;stroke-width:0.119139;shape-rendering:crispEdges"
-         d="m -1679.0149,186.98901 v -0.5957 h 13.701 13.7009 v 0.5957 0.5957 h -13.7009 -13.701 z"
-         id="path1154-7-5-61-9"
-         inkscape:connector-curvature="0"
-         class="ColorScheme-ButtonHover" />
-    </g>
-    <g
-       id="decoration-inactive-topleft">
+       id="decoration-inactive-topleft"
+       style="display:inline">
       <rect
          style="fill:currentColor;fill-opacity:1;stroke-width:1.6419"
          id="rect1166"
