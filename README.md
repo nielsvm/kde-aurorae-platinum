@@ -14,7 +14,7 @@ Retro platinum-inspired theme for [KWin](https://en.wikipedia.org/wiki/KWin)'s _
 6. In case the decoration looks ugly, try flushing caches:
    
    ```
-   rm -rf ~/.cache/plasm* ~/.cache/ico* && kwin_x11 --replace&
+   rm -rf ~/.cache/plasm* ~/.cache/ico* && kwin_wayland --replace&
    ```
 
 ---
