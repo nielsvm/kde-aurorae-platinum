@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.49411765"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="88.653512"
-     inkscape:cy="84.410872"
+     inkscape:zoom="4"
+     inkscape:cx="-27.375"
+     inkscape:cy="55.124999"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="decoration-top"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="1920"
@@ -171,7 +171,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -492,17 +491,36 @@
     <g
        id="decoration-top">
       <path
-         style="fill:currentColor;fill-opacity:1;stroke-width:0.121032"
+         style="display:inline;fill:currentColor;fill-opacity:1;stroke-width:0.121032"
          d="m -1768.6615,176.28855 v -11.47264 h 13.2155 13.2153 v 11.47264 11.47265 h -13.2153 -13.2155 z"
          id="path1156"
          inkscape:connector-curvature="0"
          class="ColorScheme-Background" />
       <path
-         style="color:#dddddd;fill:#000000;fill-opacity:0.1;stroke-width:0.121032;shape-rendering:crispEdges"
+         style="color:#dddddd;display:inline;fill:#000000;fill-opacity:0.1;stroke-width:0.121032;shape-rendering:crispEdges"
          d="m -1768.6615,176.28855 v -11.47264 h 13.2155 13.2153 v 11.47264 11.47265 h -13.2153 -13.2155 z"
          id="path1156-0"
          inkscape:connector-curvature="0"
          class="ColorScheme-Background" />
+      <g
+         id="g2"
+         inkscape:label="striping"
+         transform="matrix(0.20331538,0,0,0.35815737,-1776.7939,153.12105)"
+         style="shape-rendering:crispEdges;opacity:0.25">
+        <rect
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.217878;stroke-linecap:square;stroke-miterlimit:400;paint-order:markers fill stroke"
+           id="rect1"
+           width="130"
+           height="31.579746"
+           x="40"
+           y="44.737976"
+           inkscape:label="white" />
+        <path
+           style="display:inline;fill:#777777;stroke:none;stroke-width:0.98153"
+           d="m 40,47.320461 v 2.645834 H 170 V 47.320461 H 40 m 0,5.291667 v 2.645833 H 170 V 52.612128 H 40 m 0,5.291667 v 2.645833 H 170 V 57.903795 H 40 m 0,5.291666 v 2.645834 H 170 V 63.195461 H 40 m 0,5.291667 v 2.645833 H 170 V 68.487128 H 40 m 0,5.291667 v 2.645833 h 130 v -2.645833 z"
+           id="path1"
+           inkscape:label="striping" />
+      </g>
       <path
          style="fill:#000000;fill-opacity:0.45;stroke-width:0.114821"
          d="m -1768.6615,184.86728 v -0.57363 h 13.2155 13.2153 v 0.57363 0.57363 h -13.2153 -13.2155 z"
@@ -542,7 +560,8 @@
        class="ColorScheme-ButtonHover" />
     <g
        id="decoration-topright"
-       transform="matrix(0.99999847,0,0,0.99999956,0.04103432,7.3023795e-5)">
+       transform="matrix(0.99999847,0,0,0.99999956,0.04103432,7.3023795e-5)"
+       style="display:inline">
       <rect
          style="fill:currentColor;fill-opacity:1;stroke-width:1.13801"
          id="rect1168"
